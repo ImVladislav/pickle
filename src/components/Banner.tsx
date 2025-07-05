@@ -61,7 +61,7 @@ const Banner = () => {
       {/* BUTTONS */}
       <Box
         component='a'
-        href='https://x.com/PickleShowSol'
+        href='https://x.com/ShowPickleSol'
         target='_blank'
         sx={{
           position: "absolute",
@@ -87,7 +87,7 @@ const Banner = () => {
 
       <Box
         component='a'
-        href='https://t.me/PickleShowSol'
+        href='https://t.me/ShowPickleSol'
         target='_blank'
         sx={{
           position: "absolute",
