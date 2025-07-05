@@ -38,7 +38,7 @@ const Banner = () => {
         onClick={async (e) => {
           try {
             await navigator.clipboard.writeText(
-              "7SiUnuZbN8pwu4H5q3KbD644VHjrGra6oGgr8ZCxpump"
+              "HKccVWHaz3yd2zt8VFMc72HaTGGboxtE5W68vLVJpump"
             );
 
             const img = e.target as HTMLImageElement;
@@ -118,7 +118,7 @@ const Banner = () => {
 
       <Box
         component='a'
-        href='https://dexscreener.com/solana/7SiUnuZbN8pwu4H5q3KbD644VHjrGra6oGgr8ZCxpump'
+        href='https://dexscreener.com/solana/HKccVWHaz3yd2zt8VFMc72HaTGGboxtE5W68vLVJpump'
         target='_blank'
         sx={{
           position: "absolute",
@@ -149,7 +149,7 @@ const Banner = () => {
 
       <Box
         component='a'
-        href='https://jup.ag/swap/SOL-7SiUnuZbN8pwu4H5q3KbD644VHjrGra6oGgr8ZCxpump'
+        href='https://jup.ag/swap/SOL-HKccVWHaz3yd2zt8VFMc72HaTGGboxtE5W68vLVJpump'
         target='_blank'
         sx={{
           position: "absolute",
